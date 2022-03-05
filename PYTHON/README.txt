@@ -5,7 +5,7 @@ For any questions, comments, and/or suggestions regarding the steps, please cont
 or Dr. Rajib Saha (rsaha2@unl.edu).
 ********************************************************************************************************************
 For python implementation, the ME-model optimization problem was written using a module named pyomo, and the problem was solved using the GLPK solver.
-In this python file, a specific case is simulated with a p-coumarate uptake rate of 2 mmol/gDW/day and the corresponding maximum growth rate of 1.14/day.
+In this python file, only a specific case is simulated with a p-coumarate uptake rate of 2 mmol/gDW/day and the corresponding maximum growth rate of 1.14/day.
 
 Following are the steps which were used to solve the ME-model optimization problem.
 
